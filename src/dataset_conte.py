@@ -64,7 +64,7 @@ def main():
             with open(file_path, "w", encoding="utf-8") as f:
                 f.write(text)
 
-    print("\n✅ Tous les articles ont été scrappés et enregistrés dans le dossier 'data/'.")
+    print("\n Tous les articles ont été scrappés et enregistrés dans le dossier 'data/'.")
 
 if __name__ == "__main__":
     main()

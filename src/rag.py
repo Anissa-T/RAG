@@ -10,12 +10,14 @@ from langchain.llms import HuggingFacePipeline
 from transformers import AutoTokenizer, AutoModelForCausalLM, pipeline
 import torch
 
+
 torch.cuda.empty_cache()
 
 # Step 1: Document Loading
 def load_documents(directory_path):
     """Load text documents from a directory"""
     try:
+        # Charge tous les .txt sous directory_path et ses sous-dossiers
         loader = DirectoryLoader(directory_path, glob="**/*.txt", loader_cls=TextLoader)
         documents = loader.load()
         print(f"Loaded {len(documents)} documents from {directory_path}")
@@ -227,7 +229,6 @@ def create_qa_chain(vectorstore, llm, use_reranking=False):
 def main(query, document_directory):
     index_path = "faiss_index"
     embedding_model = "sentence-transformers/all-MiniLM-L6-v2"
-    #llm_model = "TinyLlama/TinyLlama-1.1B-Chat-v1.0"  # CPU-friendly model
     llm_model = "Qwen/Qwen2.5-1.5B-Instruct"
     use_reranking = True  # Set to False if you don't want reranking
     

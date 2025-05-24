@@ -1,0 +1,33 @@
+Question: Qui est Charles Perrault ?
+Langue: fr
+
+--- Contexte 1 (source: data/fr/Charles_Perrault.txt):
+Charles Perrault est baptisé le 13 janvier 1628 en l'église Saint-Étienne-du-MontàParis. Son parrain est son frère Pierre et sa marraine est Françoise Pépin, sa cousine[5].
+Il fait des études littéraires brillantes aucollège de Beauvaisà Paris dont il raconte, dans sesMémoires, qu'y étant élève de philosophie, il quitta la classe à la suite d’une discussion avec son professeur, en compagnie d'un de ses camarades. Tous deux décident de ne plus retourner au collège, et ils se mettent avec ardeur à la lecture des auteurs sacrés et profanes, desPères de l'Église, de laBible, de l’histoire de France, faisant de tout des traductions et des extraits. C'est à la suite de ce singulier amalgame de libres études qu'il met en vers burlesques le sixième livre del'Énéideet écritles Murs de Troie ou l'Origine du burlesque.
+
+--- Contexte 2 (source: data/fr/Charles_Perrault.txt):
+Charles Perrault est né dans une famille bourgeoise tourangelle installée à Lyon. Son grand-père a été brodeur du roi, son père Pierre († 1652) avocat auParlement de Pariss'est marié en 1608 à Paquette Le Clerc († 1657) qui lui donne sept enfants. Charles est le dernier de cettefratrie[1]: Jean, l'aîné, avocat comme son père, meurt en 1669 ;Pierre (1611-1680),receveur général des finances, perd pour indélicatesse son crédit auprès de Colbert en 1664 ;Claude(1613-1688), médecin et architecte, membre de l'Académie des sciences[2]et du Conseil des bâtiments, publie des ouvrages d'histoire naturelle et d'architecture, on lui doit notamment lacolonnade du Louvre;Nicolas(1624-1662), amateur de mathématiques et théologien, est exclu de laSorbonnepourjansénismeen 1656 ; Marie, l’unique fille, meurt à treize ans[3]; il a également un frère jumeau, François, mort en bas âge, à6 mois[4].
+
+--- Contexte 3 (source: data/fr/Charles_Perrault.txt):
+Perrault a pratiqué plusieurs genres littéraires.
+Au genre galant avecDialogue de l’amour et de l’amitié(1660) etLe Miroir ou la Métamorphose d’Orantese sont ajoutées des poésies légères, comme lePortrait d’Iris.
+Le poème intituléle Siècle de Louis le Grandlu à l’Académie, le27 janvier1687et marquant la prépondérance de l'art du siècle du Roi soleil provoque un tollé et ouvre sur laQuerelle des Anciens et des Modernes.
+Perrault commence en1696et termine cinq ans après un ouvrage intituléLes Hommes illustres qui ont paru en France pendant ce siècle(2 vol. in-fol.), un recueil de cent deuxbiographies, courtes, précises et exactes, accompagnées de magnifiques portraits gravés.
+Mais ce qui a fait l’immortelle popularité de Perrault, ce n’est ni son œuvre poétique, ni son travail d'historien, ni ses écrits littéraires, aujourd'hui tombés dans l'oubli, mais la série de contes publiés entre 1694 et 1697.
+
+Réponse:
+Contexte (langue=fr):
+Charles Perrault est baptisé le 13 janvier 1628 en l'église Saint-Étienne-du-MontàParis. Son parrain est son frère Pierre et sa marraine est Françoise Pépin, sa cousine[5].
+Il fait des études littéraires brillantes aucollège de Beauvaisà Paris dont il raconte, dans sesMémoires, qu'y étant élève de philosophie, il quitta la classe à la suite d’une discussion avec son professeur, en compagnie d'un de ses camarades. Tous deux décident de ne plus retourner au collège, et ils se mettent avec ardeur à la lecture des auteurs sacrés et profanes, desPères de l'Église, de laBible, de l’histoire de France, faisant de tout des traductions et des extraits. C'est à la suite de ce singulier amalgame de libres études qu'il met en vers burlesques le sixième livre del'Énéideet écritles Murs de Troie ou l'Origine du burlesque.
+Charles Perrault est né dans une famille bourgeoise tourangelle installée à Lyon. Son grand-père a été brodeur du roi, son père Pierre († 1652) avocat auParlement de Pariss'est marié en 1608 à Paquette Le Clerc († 1657) qui lui donne sept enfants. Charles est le dernier de cettefratrie[1]: Jean, l'aîné, avocat comme son père, meurt en 1669 ;Pierre (1611-1680),receveur général des finances, perd pour indélicatesse son crédit auprès de Colbert en 1664 ;Claude(1613-1688), médecin et architecte, membre de l'Académie des sciences[2]et du Conseil des bâtiments, publie des ouvrages d'histoire naturelle et d'architecture, on lui doit notamment lacolonnade du Louvre;Nicolas(1624-1662), amateur de mathématiques et théologien, est exclu de laSorbonnepourjansénismeen 1656 ; Marie, l’unique fille, meurt à treize ans[3]; il a également un frère jumeau, François, mort en bas âge, à6 mois[4].
+Perrault a pratiqué plusieurs genres littéraires.
+Au genre galant avecDialogue de l’amour et de l’amitié(1660) etLe Miroir ou la Métamorphose d’Orantese sont ajoutées des poésies légères, comme lePortrait d’Iris.
+Le poème intituléle Siècle de Louis le Grandlu à l’Académie, le27 janvier1687et marquant la prépondérance de l'art du siècle du Roi soleil provoque un tollé et ouvre sur laQuerelle des Anciens et des Modernes.
+Perrault commence en1696et termine cinq ans après un ouvrage intituléLes Hommes illustres qui ont paru en France pendant ce siècle(2 vol. in-fol.), un recueil de cent deuxbiographies, courtes, précises et exactes, accompagnées de magnifiques portraits gravés.
+Mais ce qui a fait l’immortelle popularité de Perrault, ce n’est ni son œuvre poétique, ni son travail d'historien, ni ses écrits littéraires, aujourd'hui tombés dans l'oubli, mais la série de contes publiés entre 1694 et 1697.
+
+Question:
+Qui est Charles Perrault ?
+Répondez en fr sur la base du contexte fourni. Si l'information n'est pas présente, répondez "Je ne sais pas.".
+Réponse: 
+Charles Perrault est un homme de lettres français qui fit ses études littéraires à l'académie de Besançon. Il est surtout connu pour avoir publié les contes "La Belle Helène", "Cendrillon" et autres. Ses biographie sont historique et souvent humoristique. En outre, il a aussi écris quelques pièces dramatiques.

@@ -1,0 +1,36 @@
+Question: Who is Charles Perrault?
+Langue: en
+
+--- Contexte 1 (source: data/en/Charles_Perrault.txt):
+In 1682, Colbert forced Perrault into retirement at the age of 56, assigning his tasks to his own son, Jules-Armand, marquis d'Ormoy. Colbert would die the next year, and Perrault stopped receiving the pension given to him as a writer. Colbert's bitter rival succeeded him,François-Michel le Tellier, Marquis de Louvois, and quickly removed Perrault from his other appointments.[citation needed]
+After this, in 1686, Perrault decided to writeepic poetryand show his genuine devotion to Christianity, writingSaint Paulin, évêque de Nôle(St. Paulinus, Bishop of Nola, aboutPaulinus of Nola). Just likeJean Chapelain'sLa Pucelle, ou la France délivrée, an epic poem aboutJoan of Arc, Perrault became a target of mockery fromNicolas Boileau-Despréaux.[citation needed]
+Charles Perrault died in Paris on 16 May 1703, at the age of 75.[3]On 12 January 2016, Google honoured him with adoodleby artistSophie Diaodepicting characters from theTales of Mother Goose(Histoires ou contes du temps passé).[14]
+
+--- Contexte 2 (source: data/en/Charles_Perrault.txt):
+Charles Perrault was born in Paris on 12 January 1628,[3][4]to a wealthybourgeoisfamily and was the seventh child ofPierre Perrault (father)and Paquette Le Clerc. He attended very good schools and studied law before embarking on a career in government service, following in the footsteps of his father and elder brother Jean.[citation needed]
+He took part in the creation of the Academy of Sciences as well as the restoration of the Academy of Painting. In 1654, he moved in with his brotherPierre, who had purchased the position of chief tax collector of the city of Paris. When theAcademy of Inscriptions and Belles-Lettreswas founded in 1663, Perrault was appointed its secretary and served underJean Baptiste Colbert, finance minister toKing Louis XIV.[5]Jean Chapelain,Amable de Bourzeys, andJacques Cassagne(the King's librarian) were also appointed.[citation needed]
+
+--- Contexte 3 (source: data/en/Charles_Perrault.txt):
+In 1668, Perrault wroteLa Peinture(Painting) to honor the king's first painter, Charles Le Brun. He also wroteCourses de tetes et de bague(Head and Ring Races, 1670), written to commemorate the 1662 celebrations staged by Louis for his mistress,Louise-Françoise de La Baume le Blanc, duchesse de La Vallière.[citation needed]
+At Colbert's instigation, Perrault was elected to theAcadémie françaisein 1671.[3]
+He married Marie Guichon, who was aged 19, in 1672. She died in 1678.[11]
+
+Réponse:
+Contexte (langue=en):
+In 1682, Colbert forced Perrault into retirement at the age of 56, assigning his tasks to his own son, Jules-Armand, marquis d'Ormoy. Colbert would die the next year, and Perrault stopped receiving the pension given to him as a writer. Colbert's bitter rival succeeded him,François-Michel le Tellier, Marquis de Louvois, and quickly removed Perrault from his other appointments.[citation needed]
+After this, in 1686, Perrault decided to writeepic poetryand show his genuine devotion to Christianity, writingSaint Paulin, évêque de Nôle(St. Paulinus, Bishop of Nola, aboutPaulinus of Nola). Just likeJean Chapelain'sLa Pucelle, ou la France délivrée, an epic poem aboutJoan of Arc, Perrault became a target of mockery fromNicolas Boileau-Despréaux.[citation needed]
+Charles Perrault died in Paris on 16 May 1703, at the age of 75.[3]On 12 January 2016, Google honoured him with adoodleby artistSophie Diaodepicting characters from theTales of Mother Goose(Histoires ou contes du temps passé).[14]
+Charles Perrault was born in Paris on 12 January 1628,[3][4]to a wealthybourgeoisfamily and was the seventh child ofPierre Perrault (father)and Paquette Le Clerc. He attended very good schools and studied law before embarking on a career in government service, following in the footsteps of his father and elder brother Jean.[citation needed]
+He took part in the creation of the Academy of Sciences as well as the restoration of the Academy of Painting. In 1654, he moved in with his brotherPierre, who had purchased the position of chief tax collector of the city of Paris. When theAcademy of Inscriptions and Belles-Lettreswas founded in 1663, Perrault was appointed its secretary and served underJean Baptiste Colbert, finance minister toKing Louis XIV.[5]Jean Chapelain,Amable de Bourzeys, andJacques Cassagne(the King's librarian) were also appointed.[citation needed]
+In 1668, Perrault wroteLa Peinture(Painting) to honor the king's first painter, Charles Le Brun. He also wroteCourses de tetes et de bague(Head and Ring Races, 1670), written to commemorate the 1662 celebrations staged by Louis for his mistress,Louise-Françoise de La Baume le Blanc, duchesse de La Vallière.[citation needed]
+At Colbert's instigation, Perrault was elected to theAcadémie françaisein 1671.[3]
+He married Marie Guichon, who was aged 19, in 1672. She died in 1678.[11]
+
+Question:
+Who is Charles Perrault?
+Répondez en en sur la base du contexte fourni. Si l'information n'est pas présente, répondez "Je ne sais pas.".
+Réponse: Charles Perrault est un homme qui a vécu pendant plusieurs années au XVIIème siècle à Paris. Il était une personne riche et bien éduquée. Il a fait ses études pour devenir avocat puis il s'est lancé dans la carrière publique.
+
+Il a été membre des Académies de Sciences et d'Inscriptions-Belles Littératures ainsi que de l'Academie Francaise où il a été élu en 1671. Sa vie privée comprend également sa relation avec Marie Guichon, qu'il épousa en 1672 avant qu'elle ne décède deux ans plus tard. 
+
+Son œuvre littéraire inclut diverses œuvres comme les Tales of Mother Goose, dont elle est connue aujourd'hui sous ce titre, et The Adventures of Pinocchio. Son dernier livre était Saint-Paulin, Evêque de Nolte. Malgré cela, il est surtout connu pour avoir écrit ces histoires, qui sont maintenant très populaires auprès des enfants. De plus, après sa mort, en 1703, il a été honnie par Google lors d'une publicité.

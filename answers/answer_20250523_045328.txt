@@ -1,0 +1,30 @@
+Question: Citez quelques contes écrits par Charles Perrault.
+Langue: fr
+
+--- Contexte 1 (source: data/fr/Charles_Perrault.txt):
+Charles Perrault est baptisé le 13 janvier 1628 en l'église Saint-Étienne-du-MontàParis. Son parrain est son frère Pierre et sa marraine est Françoise Pépin, sa cousine[5].
+Il fait des études littéraires brillantes aucollège de Beauvaisà Paris dont il raconte, dans sesMémoires, qu'y étant élève de philosophie, il quitta la classe à la suite d’une discussion avec son professeur, en compagnie d'un de ses camarades. Tous deux décident de ne plus retourner au collège, et ils se mettent avec ardeur à la lecture des auteurs sacrés et profanes, desPères de l'Église, de laBible, de l’histoire de France, faisant de tout des traductions et des extraits. C'est à la suite de ce singulier amalgame de libres études qu'il met en vers burlesques le sixième livre del'Énéideet écritles Murs de Troie ou l'Origine du burlesque.
+
+--- Contexte 2 (source: data/fr/Le_Maître_chat_ou_le_Chat_botté.txt):
+des contes de Perrault soit le reflet des pratiques littéraires de son époque, où lanouvelleétait populaire et la présence dunarrateurtrès prononcée. À l'inverse, les frères Grimm travaillaient sur l'oralité[28].
+
+--- Contexte 3 (source: data/fr/Charles_Perrault.txt):
+Perrault conçoit ses contes comme une contestation des positions des Anciens et dans un dialogue avec ses contemporains :La FontaineetFénelon,Marie-Jeanne LhéritieretCatherine Bernard. Il a été largement démontré aujourd'hui qu'il promeut un certain usage des textes latins et s'inspire très massivement de Virgile et d'Apulée[37],[38], mais aussi de Straparola (Le Piacevoli Notti) et de Basile (Locunto de li).
+
+Réponse:
+Contexte (langue=fr):
+Charles Perrault est baptisé le 13 janvier 1628 en l'église Saint-Étienne-du-MontàParis. Son parrain est son frère Pierre et sa marraine est Françoise Pépin, sa cousine[5].
+Il fait des études littéraires brillantes aucollège de Beauvaisà Paris dont il raconte, dans sesMémoires, qu'y étant élève de philosophie, il quitta la classe à la suite d’une discussion avec son professeur, en compagnie d'un de ses camarades. Tous deux décident de ne plus retourner au collège, et ils se mettent avec ardeur à la lecture des auteurs sacrés et profanes, desPères de l'Église, de laBible, de l’histoire de France, faisant de tout des traductions et des extraits. C'est à la suite de ce singulier amalgame de libres études qu'il met en vers burlesques le sixième livre del'Énéideet écritles Murs de Troie ou l'Origine du burlesque.
+des contes de Perrault soit le reflet des pratiques littéraires de son époque, où lanouvelleétait populaire et la présence dunarrateurtrès prononcée. À l'inverse, les frères Grimm travaillaient sur l'oralité[28].
+Perrault conçoit ses contes comme une contestation des positions des Anciens et dans un dialogue avec ses contemporains :La FontaineetFénelon,Marie-Jeanne LhéritieretCatherine Bernard. Il a été largement démontré aujourd'hui qu'il promeut un certain usage des textes latins et s'inspire très massivement de Virgile et d'Apulée[37],[38], mais aussi de Straparola (Le Piacevoli Notti) et de Basile (Locunto de li).
+
+Question:
+Citez quelques contes écrits par Charles Perrault.
+Répondez en fr sur la base du contexte fourni. Si l'information n'est pas présente, répondez "Je ne sais pas.".
+Réponse: Je ne sais pas.
+
+L'article ne donne aucun exemple particuliers d'œuvres écrites par Charles Perrault, seulement que son travail était axé autour de ces contes traditionnels, qui étaient connus sous le nom de « Contes de Perrault ». Aucun texte spécifique ne mentionné ci-dessus n'a été cité pour être considéré comme ayant appartenu directement à lui-même. Donc, sans autre information, je peux dire que c'est inexact, car on aurait besoin d'exemples précis pour répondre correctement. 
+
+Donc, basé uniquement sur le passage donné:
+
+Répondre = Je ne sais pas.

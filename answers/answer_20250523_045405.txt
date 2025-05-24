@@ -1,0 +1,78 @@
+Question: Citez quelques contes écrits par Charles Perrault.
+Langue: fr
+
+--- Contexte 1 (source: data/fr/Charles_Perrault.txt):
+Charles Perrault est baptisé le 13 janvier 1628 en l'église Saint-Étienne-du-MontàParis. Son parrain est son frère Pierre et sa marraine est Françoise Pépin, sa cousine[5].
+Il fait des études littéraires brillantes aucollège de Beauvaisà Paris dont il raconte, dans sesMémoires, qu'y étant élève de philosophie, il quitta la classe à la suite d’une discussion avec son professeur, en compagnie d'un de ses camarades. Tous deux décident de ne plus retourner au collège, et ils se mettent avec ardeur à la lecture des auteurs sacrés et profanes, desPères de l'Église, de laBible, de l’histoire de France, faisant de tout des traductions et des extraits. C'est à la suite de ce singulier amalgame de libres études qu'il met en vers burlesques le sixième livre del'Énéideet écritles Murs de Troie ou l'Origine du burlesque.
+
+--- Contexte 2 (source: data/fr/Le_Maître_chat_ou_le_Chat_botté.txt):
+des contes de Perrault soit le reflet des pratiques littéraires de son époque, où lanouvelleétait populaire et la présence dunarrateurtrès prononcée. À l'inverse, les frères Grimm travaillaient sur l'oralité[28].
+
+--- Contexte 3 (source: data/fr/Charles_Perrault.txt):
+Perrault conçoit ses contes comme une contestation des positions des Anciens et dans un dialogue avec ses contemporains :La FontaineetFénelon,Marie-Jeanne LhéritieretCatherine Bernard. Il a été largement démontré aujourd'hui qu'il promeut un certain usage des textes latins et s'inspire très massivement de Virgile et d'Apulée[37],[38], mais aussi de Straparola (Le Piacevoli Notti) et de Basile (Locunto de li).
+
+--- Contexte 4 (source: data/fr/Charles_Perrault.txt):
+En1683, Perrault, ayant perdu à la fois son poste à l’Académie et sa femme, décide de se consacrer à l’éducation de ses enfants et écritLes Contes de ma mère l’Oye(1697).
+Il meurt le16 mai 1703dans sa maison de larue de l'Estrapadesur laMontagne Sainte-Genevièveet est inhumé le lendemain enl'église Saint-Benoît-le-Bétournéen présence de son fils Charles Perrault[36].
+
+--- Contexte 5 (source: data/fr/Charles_Perrault.txt):
+Charles Perrault est né dans une famille bourgeoise tourangelle installée à Lyon. Son grand-père a été brodeur du roi, son père Pierre († 1652) avocat auParlement de Pariss'est marié en 1608 à Paquette Le Clerc († 1657) qui lui donne sept enfants. Charles est le dernier de cettefratrie[1]: Jean, l'aîné, avocat comme son père, meurt en 1669 ;Pierre (1611-1680),receveur général des finances, perd pour indélicatesse son crédit auprès de Colbert en 1664 ;Claude(1613-1688), médecin et architecte, membre de l'Académie des sciences[2]et du Conseil des bâtiments, publie des ouvrages d'histoire naturelle et d'architecture, on lui doit notamment lacolonnade du Louvre;Nicolas(1624-1662), amateur de mathématiques et théologien, est exclu de laSorbonnepourjansénismeen 1656 ; Marie, l’unique fille, meurt à treize ans[3]; il a également un frère jumeau, François, mort en bas âge, à6 mois[4].
+
+--- Contexte 6 (source: data/fr/Charles_Perrault.txt):
+La querelle ne fut vraiment finie qu'en 1701 avec la publication de la lettre d'Arnauld (écrite avant sa mort) où il porte des jugements concluants sur plusieurs points du débat[17].
+Comme Charles Perrault n'a couché par écrit que les versions qu'il avait entendues, et du fait de la forte légitimité de l'écrit, les contes dits « de Perrault » ont souvent pris le pas sur les autres versions des mêmes histoires, issues du patrimoine oral de France et du monde entier. Ainsi,Pierre Duboispense que Charles Perrault a considérablement modifié la perception de la fée en faisant des« belles de mai »mentionnées dans les anciennes croyances des femmes raffinées, délicates et élégantes fréquentant la cour dans ses contes, détruisant ainsi leur symbolisme originel lié au renouveau de la nature. Selon lui, il« détourne et dénature »les fées des saisons avec l'ajout de ses morales[18].
+
+--- Contexte 7 (source: data/fr/Charles_Perrault.txt):
+Le27 janvier1687, Charles Perrault lit à l’Académie un poème intituléle Siècle de Louis le Grand.
+Ce poème, où Perrault, parlant avec assez peu de respect d’Homère, deMénandreet des plus révérés d’entre les auteurs classiques, plaça pour la première fois leXVIIesiècle au-dessus de tous les siècles précédents, tient une place importante dans l’histoire des lettres en ce qu’il inaugure ce qu'on appelle laQuerelle des Anciens et des Modernes.
+Perrault, qui sera le chef de file des partisans des Modernes, y explique par une loi de la nature l’égalité entre les différents âges qui fait que les grands hommes et les génies se trouvent de tous temps :
+À former les esprits comme à former les corps,La nature en tout temps fait les mêmes efforts ;(...) De cette même main les forces infiniesProduisent en tout temps de semblables génies.
+(Perrault, Le Siècle de Louis-le-Grand, Académie française, 27 janvier 1687)[11]
+
+--- Contexte 8 (source: data/fr/Charles_Perrault.txt):
+Marc Sorianodit de Perrault qu’il est « le plus méconnu des classiques » : tout le monde connaît ses contes, mais très peu connaissentsaversion des contes : ainsi, chez Perrault, le petit chaperon rouge et sa grand-mère finissent mangés par le loup : la version postérieure où le chasseur les sort du ventre est deGrimm. De même, c’est dansDisneyque le baiser du prince réveille la Belle au bois dormant (c'est également la version des frères Grimm) : chez Perrault, elle se réveille toute seule après que le Prince s'est agenouillé près d'elle. De même, on a longtemps eu un doute sur la fameusepantouflede verre : était-elle en verre ou envair? Bien qu'Honoré de Balzacait, pour rationaliser lescontesde Perrault, modifié le conte en prétendant qu'il s'agissait d'une pantoufle de vair (idée reprise par Littré dans son célèbre dictionnaire), il s'agissait bien d'une pantoufle de verre.
+
+--- Contexte 9 (source: data/fr/Le_Maître_chat_ou_le_Chat_botté.txt):
+Le conte est suivi de deuxmorales[Note 2]:
+Charles Perraultn'est pas l’inventeur de la figure du chat farceur et malicieux (appelé en anglaistrickster[2]), puisque plusieurs siècles avant la publication des contes de Perrault, lebrahmanecachemireSomadevaa collecté un vaste recueil decontes de féeindiens, leKathâsaritsâgara(littéralementL'Océan des rivières des contes) qui contient de nombreux personnages et objets de contes de fée comme des épées invincibles, des navires qui régénèrent leur cargaison et des animaux serviables. Dans lePañchatantra, un recueil de contessanskritsduVesiècle, une histoire décrit un chat qui tente de faire fortune au palais royal[3].
+
+--- Contexte 10 (source: data/fr/Charles_Perrault.txt):
+Perrault a pratiqué plusieurs genres littéraires.
+Au genre galant avecDialogue de l’amour et de l’amitié(1660) etLe Miroir ou la Métamorphose d’Orantese sont ajoutées des poésies légères, comme lePortrait d’Iris.
+Le poème intituléle Siècle de Louis le Grandlu à l’Académie, le27 janvier1687et marquant la prépondérance de l'art du siècle du Roi soleil provoque un tollé et ouvre sur laQuerelle des Anciens et des Modernes.
+Perrault commence en1696et termine cinq ans après un ouvrage intituléLes Hommes illustres qui ont paru en France pendant ce siècle(2 vol. in-fol.), un recueil de cent deuxbiographies, courtes, précises et exactes, accompagnées de magnifiques portraits gravés.
+Mais ce qui a fait l’immortelle popularité de Perrault, ce n’est ni son œuvre poétique, ni son travail d'historien, ni ses écrits littéraires, aujourd'hui tombés dans l'oubli, mais la série de contes publiés entre 1694 et 1697.
+
+Réponse:
+Contexte (langue=fr):
+Charles Perrault est baptisé le 13 janvier 1628 en l'église Saint-Étienne-du-MontàParis. Son parrain est son frère Pierre et sa marraine est Françoise Pépin, sa cousine[5].
+Il fait des études littéraires brillantes aucollège de Beauvaisà Paris dont il raconte, dans sesMémoires, qu'y étant élève de philosophie, il quitta la classe à la suite d’une discussion avec son professeur, en compagnie d'un de ses camarades. Tous deux décident de ne plus retourner au collège, et ils se mettent avec ardeur à la lecture des auteurs sacrés et profanes, desPères de l'Église, de laBible, de l’histoire de France, faisant de tout des traductions et des extraits. C'est à la suite de ce singulier amalgame de libres études qu'il met en vers burlesques le sixième livre del'Énéideet écritles Murs de Troie ou l'Origine du burlesque.
+des contes de Perrault soit le reflet des pratiques littéraires de son époque, où lanouvelleétait populaire et la présence dunarrateurtrès prononcée. À l'inverse, les frères Grimm travaillaient sur l'oralité[28].
+Perrault conçoit ses contes comme une contestation des positions des Anciens et dans un dialogue avec ses contemporains :La FontaineetFénelon,Marie-Jeanne LhéritieretCatherine Bernard. Il a été largement démontré aujourd'hui qu'il promeut un certain usage des textes latins et s'inspire très massivement de Virgile et d'Apulée[37],[38], mais aussi de Straparola (Le Piacevoli Notti) et de Basile (Locunto de li).
+En1683, Perrault, ayant perdu à la fois son poste à l’Académie et sa femme, décide de se consacrer à l’éducation de ses enfants et écritLes Contes de ma mère l’Oye(1697).
+Il meurt le16 mai 1703dans sa maison de larue de l'Estrapadesur laMontagne Sainte-Genevièveet est inhumé le lendemain enl'église Saint-Benoît-le-Bétournéen présence de son fils Charles Perrault[36].
+Charles Perrault est né dans une famille bourgeoise tourangelle installée à Lyon. Son grand-père a été brodeur du roi, son père Pierre († 1652) avocat auParlement de Pariss'est marié en 1608 à Paquette Le Clerc († 1657) qui lui donne sept enfants. Charles est le dernier de cettefratrie[1]: Jean, l'aîné, avocat comme son père, meurt en 1669 ;Pierre (1611-1680),receveur général des finances, perd pour indélicatesse son crédit auprès de Colbert en 1664 ;Claude(1613-1688), médecin et architecte, membre de l'Académie des sciences[2]et du Conseil des bâtiments, publie des ouvrages d'histoire naturelle et d'architecture, on lui doit notamment lacolonnade du Louvre;Nicolas(1624-1662), amateur de mathématiques et théologien, est exclu de laSorbonnepourjansénismeen 1656 ; Marie, l’unique fille, meurt à treize ans[3]; il a également un frère jumeau, François, mort en bas âge, à6 mois[4].
+La querelle ne fut vraiment finie qu'en 1701 avec la publication de la lettre d'Arnauld (écrite avant sa mort) où il porte des jugements concluants sur plusieurs points du débat[17].
+Comme Charles Perrault n'a couché par écrit que les versions qu'il avait entendues, et du fait de la forte légitimité de l'écrit, les contes dits « de Perrault » ont souvent pris le pas sur les autres versions des mêmes histoires, issues du patrimoine oral de France et du monde entier. Ainsi,Pierre Duboispense que Charles Perrault a considérablement modifié la perception de la fée en faisant des« belles de mai »mentionnées dans les anciennes croyances des femmes raffinées, délicates et élégantes fréquentant la cour dans ses contes, détruisant ainsi leur symbolisme originel lié au renouveau de la nature. Selon lui, il« détourne et dénature »les fées des saisons avec l'ajout de ses morales[18].
+Le27 janvier1687, Charles Perrault lit à l’Académie un poème intituléle Siècle de Louis le Grand.
+Ce poème, où Perrault, parlant avec assez peu de respect d’Homère, deMénandreet des plus révérés d’entre les auteurs classiques, plaça pour la première fois leXVIIesiècle au-dessus de tous les siècles précédents, tient une place importante dans l’histoire des lettres en ce qu’il inaugure ce qu'on appelle laQuerelle des Anciens et des Modernes.
+Perrault, qui sera le chef de file des partisans des Modernes, y explique par une loi de la nature l’égalité entre les différents âges qui fait que les grands hommes et les génies se trouvent de tous temps :
+À former les esprits comme à former les corps,La nature en tout temps fait les mêmes efforts ;(...) De cette même main les forces infiniesProduisent en tout temps de semblables génies.
+(Perrault, Le Siècle de Louis-le-Grand, Académie française, 27 janvier 1687)[11]
+Marc Sorianodit de Perrault qu’il est « le plus méconnu des classiques » : tout le monde connaît ses contes, mais très peu connaissentsaversion des contes : ainsi, chez Perrault, le petit chaperon rouge et sa grand-mère finissent mangés par le loup : la version postérieure où le chasseur les sort du ventre est deGrimm. De même, c’est dansDisneyque le baiser du prince réveille la Belle au bois dormant (c'est également la version des frères Grimm) : chez Perrault, elle se réveille toute seule après que le Prince s'est agenouillé près d'elle. De même, on a longtemps eu un doute sur la fameusepantouflede verre : était-elle en verre ou envair? Bien qu'Honoré de Balzacait, pour rationaliser lescontesde Perrault, modifié le conte en prétendant qu'il s'agissait d'une pantoufle de vair (idée reprise par Littré dans son célèbre dictionnaire), il s'agissait bien d'une pantoufle de verre.
+Le conte est suivi de deuxmorales[Note 2]:
+Charles Perraultn'est pas l’inventeur de la figure du chat farceur et malicieux (appelé en anglaistrickster[2]), puisque plusieurs siècles avant la publication des contes de Perrault, lebrahmanecachemireSomadevaa collecté un vaste recueil decontes de féeindiens, leKathâsaritsâgara(littéralementL'Océan des rivières des contes) qui contient de nombreux personnages et objets de contes de fée comme des épées invincibles, des navires qui régénèrent leur cargaison et des animaux serviables. Dans lePañchatantra, un recueil de contessanskritsduVesiècle, une histoire décrit un chat qui tente de faire fortune au palais royal[3].
+Perrault a pratiqué plusieurs genres littéraires.
+Au genre galant avecDialogue de l’amour et de l’amitié(1660) etLe Miroir ou la Métamorphose d’Orantese sont ajoutées des poésies légères, comme lePortrait d’Iris.
+Le poème intituléle Siècle de Louis le Grandlu à l’Académie, le27 janvier1687et marquant la prépondérance de l'art du siècle du Roi soleil provoque un tollé et ouvre sur laQuerelle des Anciens et des Modernes.
+Perrault commence en1696et termine cinq ans après un ouvrage intituléLes Hommes illustres qui ont paru en France pendant ce siècle(2 vol. in-fol.), un recueil de cent deuxbiographies, courtes, précises et exactes, accompagnées de magnifiques portraits gravés.
+Mais ce qui a fait l’immortelle popularité de Perrault, ce n’est ni son œuvre poétique, ni son travail d'historien, ni ses écrits littéraires, aujourd'hui tombés dans l'oubli, mais la série de contes publiés entre 1694 et 1697.
+
+Question:
+Citez quelques contes écrits par Charles Perrault.
+Répondez en fr sur la base du contexte fourni. Si l'information n'est pas présente, répondez "Je ne sais pas.".
+Réponse: Les Contes de ma Mere l'Oy
+D'autres exemples :
+1. La Chanteuse du Bois-Noir 
+2. La Belle et la Bête
+3. La Fée aux Chevaux

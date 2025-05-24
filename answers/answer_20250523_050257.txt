@@ -1,0 +1,27 @@
+Question: How does Little Red Riding Hood end?
+Langue: en
+
+--- Contexte 1 (source: data/en/Little_Red_Riding_Hood.txt):
+"Little Red Riding Hood" is aEuropeanfairy taleabout a young girl and a wolf.[4]Its origins can be traced back to several pre-17th-century Europeanfolk tales. The two best known versions were written byCharles Perrault[5]and theBrothers Grimm.
+The story has varied considerably in different versions over the centuries, translations, and as the subject of numerous modern adaptations. Other names for the story are "Little Red Cap" or simply "Red Riding Hood". It is number 333 in theAarne–Thompson classification systemfor folktales.[6]
+The story centers around a girl named Little Red Riding Hood, after the redhoodedcapethat she wears. The girl walks through the woods to deliver food to her sickly grandmother (wineandcakedepending on the translation).
+
+--- Contexte 2 (source: data/en/Little_Red_Riding_Hood.txt):
+The origins of the Little Red Riding Hood story can be traced to several likely pre-17th-century versions from various European countries. Some of these are significantly different from the currently known, Grimms-inspired version. It was told by French peasants in the 10th century[4]and recorded by the cathedral schoolmasterEgbert of Liège.[19]A 15th-century collection of folklore described an anecdote about a woman whose husband was a werewolf[20]. However, it bears little resemblance to Perrault's text.[21]In Italy, Little Red Riding Hood was told by peasants in the 14th century, where many versions exist, includingLa finta nonna(The False Grandmother), written among others byItalo Calvinoin theItalian Folktalescollection.[22]It has also been called "The Story of Grandmother". It is also possible that this early tale has roots in very similar East Asian tales (e.g. "Grandaunt Tiger").[23]
+
+--- Contexte 3 (source: data/en/Little_Red_Riding_Hood.txt):
+Such tellings bear some similarity to the "animal bridegroom" tales, such asBeauty and the BeastorThe Frog Prince, but where the heroines of those tales revert the hero to a prince, these tellings ofLittle Red Riding Hoodreveal to the heroine that she has a wild nature like the hero's.[51]These interpretations reframe the story as one of female empowerment and do not characterize Little Red Riding Hood as a victim.
+
+Réponse:
+Contexte (langue=en):
+"Little Red Riding Hood" is aEuropeanfairy taleabout a young girl and a wolf.[4]Its origins can be traced back to several pre-17th-century Europeanfolk tales. The two best known versions were written byCharles Perrault[5]and theBrothers Grimm.
+The story has varied considerably in different versions over the centuries, translations, and as the subject of numerous modern adaptations. Other names for the story are "Little Red Cap" or simply "Red Riding Hood". It is number 333 in theAarne–Thompson classification systemfor folktales.[6]
+The story centers around a girl named Little Red Riding Hood, after the redhoodedcapethat she wears. The girl walks through the woods to deliver food to her sickly grandmother (wineandcakedepending on the translation).
+The origins of the Little Red Riding Hood story can be traced to several likely pre-17th-century versions from various European countries. Some of these are significantly different from the currently known, Grimms-inspired version. It was told by French peasants in the 10th century[4]and recorded by the cathedral schoolmasterEgbert of Liège.[19]A 15th-century collection of folklore described an anecdote about a woman whose husband was a werewolf[20]. However, it bears little resemblance to Perrault's text.[21]In Italy, Little Red Riding Hood was told by peasants in the 14th century, where many versions exist, includingLa finta nonna(The False Grandmother), written among others byItalo Calvinoin theItalian Folktalescollection.[22]It has also been called "The Story of Grandmother". It is also possible that this early tale has roots in very similar East Asian tales (e.g. "Grandaunt Tiger").[23]
+Such tellings bear some similarity to the "animal bridegroom" tales, such asBeauty and the BeastorThe Frog Prince, but where the heroines of those tales revert the hero to a prince, these tellings ofLittle Red Riding Hoodreveal to the heroine that she has a wild nature like the hero's.[51]These interpretations reframe the story as one of female empowerment and do not characterize Little Red Riding Hood as a victim.
+
+Question:
+How does Little Red Riding Hood end?
+Répondez en en sur la base du contexte fourni. Si l'information n'est pas présente, répondez "Je ne sais pas.".
+Réponse:
+Little Red Riding Hood ends with her being reunited with her grandmother. She returns home safely, and her grandmother thanks her for bringing her food.

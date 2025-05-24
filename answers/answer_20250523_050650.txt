@@ -1,0 +1,24 @@
+Question: ¿Quién es Charles Perrault?
+Langue: es
+
+--- Contexte 1 (source: data/es/Charles_Perrault.txt):
+Charles Perrault(París, 12 de enero de 1628-16 de mayo de 1703) fue unescritorfrancés, principalmente reconocido por haber dado forma literaria a cuentos clásicos infantiles comoPiel de asno,Pulgarcito,Barba Azul,La Cenicienta,La bella durmiente,Caperucita RojayEl Gato con Botas, atemperando en muchos casos la crudeza de las versiones orales, la mayoría de sus cuentos son infantiles y de fantasía.
+Charles Perrault nació el 12 de enero de 1628 en la ciudad de París. Tuvo un hermano gemelo, François, que murió a los seis meses de vida. Su padre era abogado en el Parlamento, hizo posible que tuviera una buena infancia y asistiera a las mejores escuelas de la época. Ingresó en el colegio deBeauvaisen 1637, donde descubre su facilidad para las lenguas muertas.
+
+--- Contexte 2 (source: data/es/Caperucita_Roja.txt):
+Esta versión es más inocente, Caperucita Roja es una niña pequeña, no una jovencita, y aparecen menos elementos eróticos que en la de Charles Perrault. Además tiene un final feliz, tal y como solían tener los cuentos de la época. Incluso existe un final alternativo, en el que un momento antes de que el lobo se coma a Caperucita Roja, ella grita y unleñadorque estaba cerca rescata a la niña, mata al lobo, le abre la panza y saca a la abuela, milagrosamente viva. Otras diferencias que pueden llamar la atención son:
+
+--- Contexte 3 (source: data/es/Barba_Azul.txt):
+Perrault recogió el relato de fuentes populares, pero no se sabe con certeza cuánto añadió o modificó. El historiador francés del sigloXVIIIEugène Bossardrecoge un relato oral popular deBretañay losPaíses del Loiraen el que la esposa de Barba Azul, para ganar tiempo ante la inminencia de su ejecución, pide un tiempo para vestirse con su atuendo de novia. Bossard especula que Perrault cambió esta solicitud por el de ir a rezar para que el personaje de la joven resultara menos frívolo en la corte francesa del sigloXVII.[4]​
+
+Réponse:
+Contexte (langue=es):
+Charles Perrault(París, 12 de enero de 1628-16 de mayo de 1703) fue unescritorfrancés, principalmente reconocido por haber dado forma literaria a cuentos clásicos infantiles comoPiel de asno,Pulgarcito,Barba Azul,La Cenicienta,La bella durmiente,Caperucita RojayEl Gato con Botas, atemperando en muchos casos la crudeza de las versiones orales, la mayoría de sus cuentos son infantiles y de fantasía.
+Charles Perrault nació el 12 de enero de 1628 en la ciudad de París. Tuvo un hermano gemelo, François, que murió a los seis meses de vida. Su padre era abogado en el Parlamento, hizo posible que tuviera una buena infancia y asistiera a las mejores escuelas de la época. Ingresó en el colegio deBeauvaisen 1637, donde descubre su facilidad para las lenguas muertas.
+Esta versión es más inocente, Caperucita Roja es una niña pequeña, no una jovencita, y aparecen menos elementos eróticos que en la de Charles Perrault. Además tiene un final feliz, tal y como solían tener los cuentos de la época. Incluso existe un final alternativo, en el que un momento antes de que el lobo se coma a Caperucita Roja, ella grita y unleñadorque estaba cerca rescata a la niña, mata al lobo, le abre la panza y saca a la abuela, milagrosamente viva. Otras diferencias que pueden llamar la atención son:
+Perrault recogió el relato de fuentes populares, pero no se sabe con certeza cuánto añadió o modificó. El historiador francés del sigloXVIIIEugène Bossardrecoge un relato oral popular deBretañay losPaíses del Loiraen el que la esposa de Barba Azul, para ganar tiempo ante la inminencia de su ejecución, pide un tiempo para vestirse con su atuendo de novia. Bossard especula que Perrault cambió esta solicitud por el de ir a rezar para que el personaje de la joven resultara menos frívolo en la corte francesa del sigloXVII.[4]​
+
+Question:
+¿Quién es Charles Perrault?
+Répondez en es sur la base du contexte fourni. Si l'information n'est pas présente, répondez "Je ne sais pas.".
+Réponse: Charles Perrault fue un escritor francés, principalmente conocido por haber transformado versamientos populares tradicionales en cuentos infantiles. Sus obras incluyen Pecosa Blanca, Pulgarcito, Barba Azzurra, La Bella Durmiente, Caperucita Rosa y Los Gatos Con Zapatos. Estos cuentos han sido ampliamente adoptados y interpretados en numerosas culturas. También ha tenido un papel significativo en la formación cultural y social de Europa occidental durante la Edad Moderna.

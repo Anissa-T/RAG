@@ -6,6 +6,13 @@ from langdetect import detect, DetectorFactory
 DetectorFactory.seed = 0
 
 # =============================================
+# RÉPERTOIRE RACINE DU PROJET (robuste)
+# =============================================
+PROJECT_ROOT = Path(__file__).resolve().parent
+CASEAI_LOGO = PROJECT_ROOT / "CaseAI.png"
+BAYES_LOGO = PROJECT_ROOT / "Bayes-impact.png"  # si tu veux l'utiliser plus tard
+
+# =============================================
 # CHARTE GRAPHIQUE CASEAI
 # =============================================
 st.set_page_config(page_title="RAG Perrault – CaseAI", layout="wide", page_icon="leaf")
@@ -35,7 +42,10 @@ st.markdown(
 # =============================================
 col1, col2 = st.columns([1, 5])
 with col1:
-    st.image("CaseAI.png", width=200)
+    if CASEAI_LOGO.exists():
+        st.image(str(CASEAI_LOGO), width=200)
+    else:
+        st.warning(f"Logo manquant : {CASEAI_LOGO.name}")
 with col2:
     st.markdown(
         f"""
@@ -56,21 +66,21 @@ st.markdown("---")
 # =============================================
 INDEX_CONFIG = {
     "MiniLM – 500 caractères (meilleur recall)": {
-        "folder": "./RAG/faiss_index_cs500_ol200",
+        "folder": PROJECT_ROOT / "faiss_index_cs500_ol200",
         "emb_model": "sentence-transformers/all-MiniLM-L6-v2",
     },
     "MiniLM – 2000 caractères (plus de contexte)": {
-        "folder": "./RAG/faiss_index_cs2000_ol200",
+        "folder": PROJECT_ROOT / "faiss_index_cs2000_ol200",
         "emb_model": "sentence-transformers/all-MiniLM-L6-v2",
     },
     "MPNet – 500 caractères (meilleure sémantique)": {
-        "folder": "./RAG/faiss_index_embed_mpnet",
+        "folder": PROJECT_ROOT / "faiss_index_embed_mpnet",
         "emb_model": "sentence-transformers/all-mpnet-base-v2",
     },
 }
 
 @st.cache_resource
-def load_vectorstore(folder: str, emb_model: str):
+def load_vectorstore(folder, emb_model: str):
     from langchain_community.vectorstores import FAISS
     from langchain_community.embeddings import HuggingFaceEmbeddings
 
@@ -93,7 +103,7 @@ def load_llm(model_name: str):
         "text-generation",
         model=model_name,
         torch_dtype="auto",
-        device_map=None,  # CPU only → pas de bug accelerate
+        device_map=None,  # CPU only
         trust_remote_code="Qwen" in model_name,
         max_new_tokens=150,
     )
@@ -233,7 +243,10 @@ elif page == "LLM seul vs RAG – Comparaison simultanée":
                 if docs:
                     st.info(f"Source: `{Path(docs[0].metadata['source']).name}`")
 
-        st.markdown("**C’est ÇA que CaseAI a besoin : un RAG fiable, pas un LLM qui approximatif mais plutôt un RAG qui s'appuie sur des données solides et vérifiables.**")
+        st.markdown(
+            "**C’est ÇA que CaseAI a besoin : un RAG fiable, pas un LLM approximatif mais un RAG qui "
+            "s'appuie sur des données solides et vérifiables.**"
+        )
 
 # =============================================
 # 3. RAPPORT PDF (Résumé + éléments du rapport)
@@ -872,7 +885,10 @@ st.markdown(
 <div class="footer">
     <strong>Anissa Thezenas</strong><br>
     Candidate Junior Data Scientist RAG @ Bayes Impact<br><br>
-    <span style="font-size:1.4em; color:{orange};">Je suis prête à en apprendre plus et je suis très motivée par l'impact que peut avoir la RAG sur les processus décisionnels des travailleurs sociaux.</span><br><br>
+    <span style="font-size:1.4em; color:{orange};">
+        Je suis prête à en apprendre plus et je suis très motivée par l'impact que peut avoir la RAG
+        sur les processus décisionnels des travailleurs sociaux.
+    </span><br><br>
     <strong>Hâte de faire partie de l'aventure !</strong>
 </div>
 """,
